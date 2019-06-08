@@ -1,0 +1,17 @@
+music = {
+	name = "song_a"
+	file = "song_a.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "song_b"
+	file = "song_b.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "song_b"
+	file = "song_b.ogg"
+	volume = 1.0
+}
