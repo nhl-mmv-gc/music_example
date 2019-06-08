@@ -1,7 +1,7 @@
 ﻿l_english:
-#Radio Names
+#Station names
  (station_name)_TITLE:0 "(insert title here)"
-#Songs
+#Song names
  song_a:0 "name of song A"
  song_b:0 "name of song B"
  song_c:0 "name of song C"
